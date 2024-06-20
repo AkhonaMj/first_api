@@ -1,0 +1,98 @@
+{
+    "AboutMe": "My name is Akhona Mjikelo and I am an aspiring web developer",
+    "Projects": [
+        {
+            "name": "Calculator", 
+            "github": "https://github.com/AkhonaMj/calculator.git",
+            "vercel": "https://calculator-n256ciezx-akhonas-projects.vercel.app",
+            "description":"I used nsjkhfs cb",
+            "image":"URL"
+
+        },
+        {
+            "name": "BMI Calculator", 
+            "github": "https://github.com/AkhonaMj/BMI-calculator.git",
+            "vercel":"https://bmi-calculator-4553fni4o-akhonas-projects.vercel.app",
+            "description":"I used nsjkhfs cb",
+            "image":"URL"
+
+        },
+        {
+            "name": "Ecommerce website", 
+            "github": "https://github.com/AkhonaMj/ecommerce-project.git",
+            "vercel":"https://ecommerce-project-5kngx7f6y-akhonas-projects.vercel.appp",
+            "description":"I used nsjkhfs cb",
+            "image":"URL"
+        },
+        {
+           "name": "Registration Numbers", 
+            "github": "https://github.com/AkhonaMj/registration_numbers_webapp.git",
+            "render":"https://registration-numbers-webapp-5h32.onrender.com",
+            "description":"dkfjgk, vkj m,snejk vmh",
+            "image":"URL"
+        }
+
+    ],
+    "education":[
+        {
+            "description": "High SChool",
+            "year":"2018",
+            "Institution":"Joe Slovo Engineering High School" 
+        },
+        {
+            "description": "Full-Stack Web Development",
+            "year":"Present",
+            "Institution":"Life Choices Academy"  
+        },
+        {
+            "description": "Mechanical Engineering",
+            "year":"2021",
+            "Institution":"Northlink College "
+    
+        }
+    ],
+    "skills":[
+        {
+            "name":"HTML",
+            "image":"URL"
+        },
+        {
+            "name":"CSS",
+            "image":"URL"
+        },
+        {
+            "name":"JavaScript",
+            "image":"URL"
+        }
+    ],
+    "workExp":[
+        {
+            "placeOfWork":"DecorLab Outtlet",
+            "year":"2021-2023",
+            "description":"Sales Assistant",
+            "Reference":{
+                "name":"Mariam Clayton",
+                "contact":"0681296676",
+                "position":"Manager"
+            }
+        },
+        {
+            "placeOfWork":"Moses Mabhida Library",
+            "year":"2019",
+            "description":"Children's Tutor",
+            "contact":{
+                "name":"Sinazo Mjacu",
+                "contact":"0658379599",
+                "position":"Library Assistant"
+            }
+        }
+    ],
+    "testimonials":[
+        {
+            "name":"",
+            "relationship":"",
+            "testimony":""
+
+        }
+    ]
+}
