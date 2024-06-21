@@ -1,6 +1,6 @@
 {
-    "AboutMe": "My name is Akhona Mjikelo and I am an aspiring web developer",
-    "Projects": [
+    "aboutMe": "My name is Akhona Mjikelo and I am an aspiring web developer",
+    "projects": [
         {
             "name": "Calculator", 
             "github": "https://github.com/AkhonaMj/calculator.git",
