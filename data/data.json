@@ -2,6 +2,13 @@
     "aboutMe": "My name is Akhona Mjikelo and I am an aspiring web developer",
     "projects": [
         {
+            "name": "Hulu Clone", 
+             "github": "https://github.com/AkhonaMj/hulu_clone",
+             "vercel":"https://hulu-clone-owgjn9uoi-akhonas-projects.vercel.app/",
+             "description":"",
+             "image":"URL"
+         },
+        {
             "name": "Calculator", 
             "github": "https://github.com/AkhonaMj/calculator.git",
             "vercel": "https://calculator-n256ciezx-akhonas-projects.vercel.app",
@@ -25,13 +32,20 @@
             "image":"URL"
         },
         {
-           "name": "Registration Numbers", 
-            "github": "https://github.com/AkhonaMj/registration_numbers_webapp.git",
-            "render":"https://registration-numbers-webapp-5h32.onrender.com",
-            "description":"dkfjgk, vkj m,snejk vmh",
+           "name": "Temperature Converter", 
+            "github": "https://github.com/AkhonaMj/temperature_converter",
+            "vercel":"https://temperature-converter-f1qpl4ba6-akhonas-projects.vercel.app/",
+            "description":"",
             "image":"URL"
-        }
-
+        },
+        {
+            "name": "Taxi Queue", 
+             "github":"https://github.com/AkhonaMj/taxi-queue-app",
+             "vercel":"",
+             "description":"",
+             "image":"URL"
+         }
+     
     ],
     "education":[
         {
@@ -51,7 +65,8 @@
     
         }
     ],
-    "skills":[
+    "skills":{
+        "hardSkills":[
         {
             "name":"HTML",
             "image":"URL"
@@ -59,12 +74,44 @@
         {
             "name":"CSS",
             "image":"URL"
+        }, 
+         {
+            "name":"Bootstrap",
+            "image":"URL"
         },
         {
             "name":"JavaScript",
             "image":"URL"
+        },
+        {
+            "name":"Git & Github",
+            "image":"URL"
         }
     ],
+    "softSkills":[
+        {
+            "name":"Time Management",
+            "image":"URL"
+        },
+        {
+            "name":"Problem Solving",
+            "image":"URL"
+        }, 
+         {
+            "name":"Communication",
+            "image":"URL"
+        },
+        {
+            "name":"Collaboration",
+            "image":"URL"
+        },
+        {
+            "name":"Empathy",
+            "image":"URL"
+        }
+
+    ]
+},
     "workExp":[
         {
             "placeOfWork":"DecorLab Outtlet",
@@ -89,10 +136,41 @@
     ],
     "testimonials":[
         {
-            "name":"",
-            "relationship":"",
+            "imageUrl":"",
+            "name":"Caitlin Dalwai",
+            "relationship":"Colleague",
+            "testimony":""
+        },
+        {
+            "imageUrl":"",
+            "name":"Chloe Smith",
+            "relationship":"Colleague",
             "testimony":""
 
+        },
+        {
+            "imageUrl":"",
+            "name":"Matthew Brown",
+            "relationship":"Lecturer",
+            "testimony":""
+        },
+        {
+            "imageUrl":"",
+            "name":"Nikilitha Kakaza",
+            "relationship":"Colleague",
+            "testimony":""
+        },
+        {
+            "imageUrl":"",
+            "name":"Sihlandlo Makhumsha",
+            "relationship":"Colleague",
+            "testimony":""
+        },
+        {
+            "imageUrl":"",
+            "name":"Yolanda Matiwane",
+            "relationship":"Colleague",
+            "testimony":""
         }
     ]
 }
