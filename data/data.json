@@ -69,45 +69,55 @@
         "hardSkills":[
         {
             "name":"HTML",
-            "image":"URL"
+            "image":"https://akhonamj.github.io/portfolio_images/icons8-html-logo-64.png",
+            "description":"I use HTML to create the foundational structure of webpages, including defining headings, paragraphs, images, links, and forms. It allows me to build portfolio sites, interactive web applications, and responsive layouts, ensuring content is well-organized and accessible."
         },
         {
             "name":"CSS",
-            "image":"URL"
+            "image":"https://akhonamj.github.io/portfolio_images/icons8-css-logo-64.png",
+            "description":"I use CSS (Cascading Style Sheets) to style and layout webpages. It helps me design visually appealing websites by controlling colors, fonts, spacing, and positioning of elements. With CSS, I create responsive designs that work on various devices, enhance user experience, and bring my HTML structures to life."
         }, 
          {
             "name":"Bootstrap",
-            "image":"URL"
+            "image":"https://akhonamj.github.io/portfolio_images/icons8-bootstrap-48.png",
+            "description":"I use Bootstrap to streamline and enhance web development. Bootstrap is a popular front-end framework that provides pre-styled components and responsive layout utilities. It helps me create modern and consistent designs efficiently, saving time by offering ready-made components like navigation bars, buttons, grids, and forms. This allows me to focus more on functionality and customization while ensuring a responsive and visually appealing user interface."
         },
         {
             "name":"JavaScript",
-            "image":"URL"
+            "image":"https://akhonamj.github.io/portfolio_images/icons8-javascript-logo-64.png",
+            "description":"I use JavaScript to add interactivity and functionality to webpages. JavaScript is a versatile programming language that allows me to manipulate webpage elements, handle user events, perform calculations, and interact with servers (using frameworks like Node.js). It enhances user experience by enabling dynamic content updates and responsive behavior, making web applications more interactive and engaging."
         },
         {
             "name":"Git & Github",
-            "image":"URL"
+            "image":"https://akhonamj.github.io/portfolio_images/icons8-git-64.png",
+            "description":"I use Git for version control, which helps me track changes in my codebase, collaborate with others, and revert to previous versions when needed. GitHub is a platform where I store my Git repositories remotely, enabling me to showcase my projects, collaborate with teams, and contribute to open-source projects. It provides tools for code review, issue tracking, and project management, facilitating efficient development workflows."
         }
     ],
     "softSkills":[
         {
             "name":"Time Management",
-            "image":"URL"
+            "image":"https://akhonamj.github.io/portfolio_images/icons8-time-management-64%20(2).png",
+            "description":"Time management is a crucial skill that I employ to prioritize tasks effectively, set achievable goals, and optimize productivity. It involves planning my schedule, allocating time for different activities, and using techniques like prioritization, delegation, and time blocking to ensure I meet deadlines and maintain work-life balance."
         },
         {
             "name":"Problem Solving",
-            "image":"URL"
+            "image":"https://akhonamj.github.io/portfolio_images/icons8-problem-solving-64%20(1).png",
+            "description":"Problem solving is a key skill I apply to identify issues, analyze root causes, and develop effective solutions. It involves breaking down complex problems into manageable parts, using logical reasoning and creativity to explore different approaches, and implementing strategies to achieve optimal outcomes. Problem solving also includes evaluating results, learning from mistakes, and continuously improving processes to overcome challenges effectively."
         }, 
          {
             "name":"Communication",
-            "image":"URL"
+            "image":"https://akhonamj.github.io/portfolio_images/icons8-communication-64.png",
+            "description":"Communication is essential for conveying ideas, collaborating effectively, and building relationships. I use clear and concise language to articulate concepts, actively listen to others to understand their perspectives, and adapt my communication style to different audiences. Effective communication involves expressing thoughts confidently, asking questions to clarify information, and fostering open dialogue to ensure mutual understanding and successful teamwork."
         },
         {
             "name":"Collaboration",
-            "image":"URL"
+            "image":"https://akhonamj.github.io/portfolio_images/icons8-collaborating-in-circle-48.png",
+            "description":"Collaboration is vital for achieving shared goals and leveraging diverse skills and perspectives. I collaborate by communicating openly, respecting others' contributions, and actively participating in team discussions. I contribute ideas, listen to feedback, and support team members to achieve collective success. Effective collaboration fosters creativity, enhances problem-solving capabilities, and promotes a positive work environment built on trust and mutual respect."
         },
         {
             "name":"Empathy",
-            "image":"URL"
+            "image":"https://akhonamj.github.io/portfolio_images/icons8-trust-64.png",
+            "description":"Empathy is the ability to understand and share the feelings of others. In professional settings, I practice empathy by listening actively to colleagues and clients, considering their perspectives, and acknowledging their emotions and experiences. By empathizing, I build stronger relationships, improve communication, and foster a supportive and inclusive environment where everyone feels valued and understood."
         }
 
     ]
