@@ -5,8 +5,8 @@
             "name": "Hulu Clone", 
              "github": "https://github.com/AkhonaMj/hulu_clone",
              "vercel":"https://hulu-clone-owgjn9uoi-akhonas-projects.vercel.app/",
-             "description":"",
-             "image":"URL"
+             "description":"njj",
+             "image":"https://akhonamj.github.io/portfolio_images/hulu.jpg"
          },
         {
             "name": "Calculator", 
@@ -35,14 +35,14 @@
            "name": "Temperature Converter", 
             "github": "https://github.com/AkhonaMj/temperature_converter",
             "vercel":"https://temperature-converter-f1qpl4ba6-akhonas-projects.vercel.app/",
-            "description":"",
+            "description":"kk",
             "image":"https://akhonamj.github.io/portfolio_images/tempCon.png"
         },
         {
             "name": "Taxi Queue", 
              "github":"https://github.com/AkhonaMj/taxi-queue-app",
-             "vercel":"",
-             "description":"",
+             "vercel":"https://taxi-queue-app.vercel.app/",
+             "description":"pokokl",
              "image":"https://akhonamj.github.io/portfolio_images/taxi3.png"
          }
      
