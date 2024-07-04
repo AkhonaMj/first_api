@@ -5,14 +5,12 @@
             "name": "Hulu Clone", 
              "github": "https://github.com/AkhonaMj/hulu_clone",
              "vercel":"https://hulu-clone-owgjn9uoi-akhonas-projects.vercel.app/",
-             "description":"njj",
              "image":"https://akhonamj.github.io/portfolio_images/hulu.jpg"
          },
         {
             "name": "Calculator", 
             "github": "https://github.com/AkhonaMj/calculator.git",
             "vercel": "https://calculator-n256ciezx-akhonas-projects.vercel.app",
-            "description":"I used nsjkhfs cb",
             "image":"https://akhonamj.github.io/portfolio_images/calc2.png"
 
         },
@@ -20,7 +18,6 @@
             "name": "BMI Calculator", 
             "github": "https://github.com/AkhonaMj/BMI-calculator.git",
             "vercel":"https://bmi-calculator-4553fni4o-akhonas-projects.vercel.app",
-            "description":"I used nsjkhfs cb",
             "image":"https://akhonamj.github.io/portfolio_images/bmicalc2.jpg"
 
         },
@@ -28,25 +25,23 @@
             "name": "Ecommerce website", 
             "github": "https://github.com/AkhonaMj/ecommerce-project.git",
             "vercel":"https://ecommerce-project-5kngx7f6y-akhonas-projects.vercel.appp",
-            "description":"I used nsjkhfs cb",
             "image":"https://akhonamj.github.io/portfolio_images/ecom.jpg"
         },
         {
            "name": "Temperature Converter", 
             "github": "https://github.com/AkhonaMj/temperature_converter",
             "vercel":"https://temperature-converter-f1qpl4ba6-akhonas-projects.vercel.app/",
-            "description":"kk",
             "image":"https://akhonamj.github.io/portfolio_images/tempCon.png"
         },
         {
             "name": "Taxi Queue", 
              "github":"https://github.com/AkhonaMj/taxi-queue-app",
              "vercel":"https://taxi-queue-app.vercel.app/",
-             "description":"pokokl",
              "image":"https://akhonamj.github.io/portfolio_images/taxi3.png"
          }
      
     ],
+    
     "education":[
         {
             "description": "High SChool",
@@ -146,41 +141,41 @@
     ],
     "testimonials":[
         {
-            "imageUrl":"",
+            "imageUrl":"https://akhonamj.github.io/portfolio_images/portfolio_cait.jpg",
             "name":"Caitlin Dalwai",
             "relationship":"Colleague",
-            "testimony":""
+            "testimony":"Having worked alongside Akhona in our journey at Life Choices Academy I can confidently say that any company who hires her is lucky to have her on board. Akhona is hard working and always determined to find a solution, she never gives up. She is not only intelligent, but also has an energy that can lift up anyones mood."
         },
         {
-            "imageUrl":"",
+            "imageUrl":"https://akhonamj.github.io/portfolio_images/Chloe.png",
             "name":"Chloe Smith",
             "relationship":"Colleague",
-            "testimony":""
+            "testimony":"Observing Akhona's dedication and progress in our web development course has been truly inspiring. Her commitment to mastering coding and design fundamentals is evident in every task she undertakes. Akhona's tenacity and problem-solving skills shine through as she navigates through the complexities of the course material. Moreover, her positive attitude and willingness to help others create a supportive learning environment. I have no doubt that Akhona's passion and determination will lead her to excel in her web development journey."
 
         },
         {
-            "imageUrl":"",
+            "imageUrl":"https://akhonamj.github.io/portfolio_images/matthew__1_.png",
             "name":"Matthew Brown",
             "relationship":"Lecturer",
-            "testimony":""
+            "testimony":"Akhona is an extremely hard working and goal- driven individual. She always strives for excellence and always has found solutions to overcome any challenge."
         },
         {
-            "imageUrl":"",
-            "name":"Nikilitha Kakaza",
-            "relationship":"Colleague",
-            "testimony":""
-        },
-        {
-            "imageUrl":"",
+            "imageUrl":"https://akhonamj.github.io/portfolio_images/Sihlandlo.jpg",
             "name":"Sihlandlo Makhumsha",
             "relationship":"Colleague",
-            "testimony":""
+            "testimony":"Having Akhona in your team brings enlightenment.  She's a refreshing soul, and her having a type six enneagram personality benefits the team's objectives as she foresees hurdles and foster cooperation."
         },
         {
-            "imageUrl":"",
+            "imageUrl":"https://akhonamj.github.io/portfolio_images/yolanda.jpg",
             "name":"Yolanda Matiwane",
             "relationship":"Colleague",
-            "testimony":""
+            "testimony":"Akhona is strong-willed, determinant and intelligent person. She is easy going and relatable which makes working with her a delight. She always manages to keep everyone's spirit up with her bubbly personality, and has impeccable work ethics"
+        },
+        {
+            "imageUrl":"https://akhonamj.github.io/portfolio_images/zizipho.webp",
+            "name":"Zizipho Copiso",
+            "relationship":"Former Colleague",
+            "testimony":"Working with Akhona has been an absolute pleasure! Her exceptional professionalism, combined with her friendly and approachable demeanor, made our collaboration a seamless and enjoyable experience. She is so down to earth, loving, caring, literally gets along with everyone around her. She was the type to always push me to do my best with whatever I did which I appreciate to this day! She was such a great friend and acquantance."
         }
     ]
 }
