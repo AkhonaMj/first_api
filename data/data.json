@@ -44,11 +44,6 @@
     
     "education":[
         {
-            "description": "High SChool",
-            "year":"2014-2018",
-            "Institution":"Joe Slovo Engineering High School" 
-        },
-        {
             "description": "Full-Stack Web Development",
             "year":"Present",
             "Institution":"Life Choices Academy"  
@@ -57,7 +52,12 @@
             "description": "Mechanical Engineering",
             "year":"2021",
             "Institution":"Northlink College "
-    
+            
+        },
+        {
+            "description": "High SChool",
+            "year":"2014-2018",
+            "Institution":"Joe Slovo Engineering High School" 
         }
     ],
     "skills":{
