@@ -2,17 +2,33 @@
     "aboutMe": " I am a vibrant individual with a strong desire for knowledge and a heart full of positivity. You will always find me smiling and joyful. I navigate the world with eager curiosity, always looking for new skills to add to my pockets. During my relentless pursuit of learning, I discovered the fascinating world of coding, and it was love at first code! There's something incredibly exciting about the language of computers and creating digital wonders from just pixels. When I'm not lost in lines of code, you'll likely find me in the kitchen. Cooking isn't just a hobby for me, it's a creative outlet where I sprinkle a dash of passion and a pinch of experimentation into every dish. Oh, and did I mention I'm a linguistic juggler? Fluent in isiXhosa and English. With an infectious enthusiasm, a skillet in one hand, and a keyboard in the other, I'm ready to embark on new adventures, tackle fresh challenges, and sprinkle a little laughter along the way.",
     "projects": [
         {
-            "name": "Hulu Clone", 
-             "github": "https://github.com/AkhonaMj/hulu_clone",
-             "vercel":"https://hulu-clone-owgjn9uoi-akhonas-projects.vercel.app/",
-             "image":"https://akhonamj.github.io/portfolio_images/hulu.jpg"
+            "name": "Ecommerce website", 
+            "github": "https://github.com/AkhonaMj/ecommerce-project.git",
+            "vercel":"https://ecommerce-project-5kngx7f6y-akhonas-projects.vercel.appp",
+            "image":"https://akhonamj.github.io/portfolio_images/ecom.jpg"
+            
          },
         {
-            "name": "Calculator", 
-            "github": "https://github.com/AkhonaMj/calculator.git",
-            "vercel": "https://calculator-n256ciezx-akhonas-projects.vercel.app",
-            "image":"https://akhonamj.github.io/portfolio_images/calc2.png"
+            "name": "Registration Webapp", 
+            "github": "https://github.com/AkhonaMj/registration_numbers_webapp.git",
+            "vercel": "",
+            "image":""
 
+        },
+        {
+            "name": "My first Portfolio", 
+            "github": "",
+            "vercel": "",
+            "image":""
+
+        },
+    
+    
+        {
+            "name": "Capstone Project", 
+            "github": "https://github.com/AkhonaMj/ecommerce-project.git",
+            "vercel":"https://ecommerce-project-5kngx7f6y-akhonas-projects.vercel.appp",
+            "image":"https://akhonamj.github.io/portfolio_images/ecom.jpg"
         },
         {
             "name": "BMI Calculator", 
@@ -20,18 +36,6 @@
             "vercel":"https://bmi-calculator-4553fni4o-akhonas-projects.vercel.app",
             "image":"https://akhonamj.github.io/portfolio_images/bmicalc2.jpg"
 
-        },
-        {
-            "name": "Ecommerce website", 
-            "github": "https://github.com/AkhonaMj/ecommerce-project.git",
-            "vercel":"https://ecommerce-project-5kngx7f6y-akhonas-projects.vercel.appp",
-            "image":"https://akhonamj.github.io/portfolio_images/ecom.jpg"
-        },
-        {
-           "name": "Temperature Converter", 
-            "github": "https://github.com/AkhonaMj/temperature_converter",
-            "vercel":"https://temperature-converter-f1qpl4ba6-akhonas-projects.vercel.app/",
-            "image":"https://akhonamj.github.io/portfolio_images/tempCon.png"
         },
         {
             "name": "Taxi Queue", 
@@ -65,54 +69,66 @@
         {
             "name":"HTML",
             "image":"https://akhonamj.github.io/portfolio_images/icons8-html-logo-64.png",
-            "description":"I use HTML to create the foundational structure of webpages, including defining headings, paragraphs, images, links, and forms. It allows me to build portfolio sites, interactive web applications, and responsive layouts, ensuring content is well-organized and accessible."
+            "description":"I use HTML to create the foundational structure of webpages, including defining headings, paragraphs, images, links, and forms. "
         },
         {
             "name":"CSS",
             "image":"https://akhonamj.github.io/portfolio_images/icons8-css-logo-64.png",
-            "description":"I use CSS (Cascading Style Sheets) to style and layout webpages. It helps me design visually appealing websites by controlling colors, fonts, spacing, and positioning of elements. With CSS, I create responsive designs that work on various devices, enhance user experience, and bring my HTML structures to life."
+            "description":"I use CSS  to style and layout webpages. It helps me design visually appealing websites by controlling colors, fonts, spacing, and positioning of elements."
         }, 
          {
             "name":"Bootstrap",
             "image":"https://akhonamj.github.io/portfolio_images/icons8-bootstrap-48.png",
-            "description":"I use Bootstrap to streamline and enhance web development. Bootstrap is a popular front-end framework that provides pre-styled components and responsive layout utilities. It helps me create modern and consistent designs efficiently, saving time by offering ready-made components like navigation bars, buttons, grids, and forms. This allows me to focus more on functionality and customization while ensuring a responsive and visually appealing user interface."
+            "description":"I use Bootstrap to streamline and enhance web development. Bootstrap is a popular front-end framework that provides pre-styled components and responsive layout utilities."
         },
         {
             "name":"JavaScript",
             "image":"https://akhonamj.github.io/portfolio_images/icons8-javascript-logo-64.png",
-            "description":"I use JavaScript to add interactivity and functionality to webpages. JavaScript is a versatile programming language that allows me to manipulate webpage elements, handle user events, perform calculations, and interact with servers (using frameworks like Node.js). It enhances user experience by enabling dynamic content updates and responsive behavior, making web applications more interactive and engaging."
+            "description":"I use JavaScript to add interactivity and functionality to webpages. It is versatile and it allows me to manipulate webpage elements, handle user events, perform calculations, and interact with servers."
         },
         {
             "name":"Git & Github",
             "image":"https://akhonamj.github.io/portfolio_images/icons8-git-64.png",
-            "description":"I use Git for version control, which helps me track changes in my codebase, collaborate with others, and revert to previous versions when needed. GitHub is a platform where I store my Git repositories remotely, enabling me to showcase my projects, collaborate with teams, and contribute to open-source projects. It provides tools for code review, issue tracking, and project management, facilitating efficient development workflows."
+            "description":"I use Git for version control, which helps me track changes in my codebase, collaborate with others, and revert to previous versions when needed. GitHub is a platform where I store my Git repositories remotely."
+        },
+        {
+            "name":"MySQL",
+            "image":"https://akhonamj.github.io/portfolio_images/icons8-mysql-64.png",
+            "description":"I use MySQL to design, manage, and optimize relational databases, ensuring data integrity and efficient querying. I create structured databases, write complex queries, and integrate them seamlessly with web applications to handle and store data securely."
+
+        },
+        {
+            "name":"NodeJs",
+            "image":"https://akhonamj.github.io/portfolio_images/icons8-nodejs-64.png",
+            "description":"I use Node.js to build dynamic, server-side applications, leveraging its non-blocking, event-driven architecture to create efficient and scalable web solutions. From handling user authentication to managing databases, I ensure smooth backend operations for modern web apps."
+
         }
     ],
     "softSkills":[
         {
             "name":"Time Management",
             "image":"https://akhonamj.github.io/portfolio_images/icons8-time-management-64%20(2).png",
-            "description":"Time management is a crucial skill that I employ to prioritize tasks effectively, set achievable goals, and optimize productivity. It involves planning my schedule, allocating time for different activities, and using techniques like prioritization, delegation, and time blocking to ensure I meet deadlines and maintain work-life balance."
+            "description":"Time management is a crucial skill that I employ to prioritize tasks effectively, set achievable goals, and optimize productivity. It involves planning my schedule, allocating time for different activities."
         },
         {
             "name":"Problem Solving",
             "image":"https://akhonamj.github.io/portfolio_images/icons8-problem-solving-64%20(1).png",
-            "description":"Problem solving is a key skill I apply to identify issues, analyze root causes, and develop effective solutions. It involves breaking down complex problems into manageable parts, using logical reasoning and creativity to explore different approaches, and implementing strategies to achieve optimal outcomes. Problem solving also includes evaluating results, learning from mistakes, and continuously improving processes to overcome challenges effectively."
+            "description":"Problem solving is a key skill I apply to identify issues, analyze root causes, and develop effective solutions. It involves breaking down complex problems into manageable parts, using logical reasoning and creativity to explore different approaches."
         }, 
          {
             "name":"Communication",
             "image":"https://akhonamj.github.io/portfolio_images/icons8-communication-64.png",
-            "description":"Communication is essential for conveying ideas, collaborating effectively, and building relationships. I use clear and concise language to articulate concepts, actively listen to others to understand their perspectives, and adapt my communication style to different audiences. Effective communication involves expressing thoughts confidently, asking questions to clarify information, and fostering open dialogue to ensure mutual understanding and successful teamwork."
+            "description":"Communication is essential for conveying ideas, collaborating effectively, and building relationships. I use clear and concise language to articulate concepts, actively listen to others to understand their perspectives. and adapt my communication style to different audiences. "
         },
         {
             "name":"Collaboration",
             "image":"https://akhonamj.github.io/portfolio_images/icons8-collaborating-in-circle-48.png",
-            "description":"Collaboration is vital for achieving shared goals and leveraging diverse skills and perspectives. I collaborate by communicating openly, respecting others' contributions, and actively participating in team discussions. I contribute ideas, listen to feedback, and support team members to achieve collective success. Effective collaboration fosters creativity, enhances problem-solving capabilities, and promotes a positive work environment built on trust and mutual respect."
+            "description":"Collaboration is vital for achieving shared goals and leveraging diverse skills and perspectives. I collaborate by communicating openly, respecting others' contributions, and actively participating in team discussions. I contribute ideas, listen to feedback."
         },
         {
             "name":"Empathy",
             "image":"https://akhonamj.github.io/portfolio_images/icons8-trust-64.png",
-            "description":"In professional settings, I practice empathy by listening actively to colleagues and clients, considering their perspectives, and acknowledging their emotions and experiences. By empathizing, I build stronger relationships, improve communication, and foster a supportive and inclusive environment where everyone feels valued and understood."
+            "description":"I practice empathy by listening actively to colleagues , considering their perspectives, and acknowledging their emotions and experiences. By empathizing, I build stronger relationships, improve communication, and foster a supportive and inclusive environment where everyone feels valued and understood."
         }
 
     ]
