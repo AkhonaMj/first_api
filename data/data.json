@@ -4,7 +4,7 @@
         {
             "name": "Ecommerce website", 
             "github": "https://github.com/AkhonaMj/ecommerce-project.git",
-            "hosted":"https://ecommerce-project-5kngx7f6y-akhonas-projects.vercel.appp",
+            "hosted":"https://ecommerce-project-5kngx7f6y-akhonas-projects.vercel.app/",
             "image":"https://akhonamj.github.io/portfolio_images/Screenshots/Screenshot%202024-09-19%20103858.png"
             
          },
@@ -132,7 +132,7 @@
         },
         {
             "name":"Adaptability",
-            "image":"",
+            "image":"https://akhonamj.github.io/portfolio_images/icons8-adaptable-64.png",
             "description":"I thrive in dynamic environments, quickly adapting to new tools, technologies, and challenges. My ability to learn and pivot ensures that I stay flexible and responsive to changing project needs and evolving industry trends."
         }
 
