@@ -2,41 +2,45 @@
     "aboutMe": " I am a vibrant individual with a strong desire for knowledge and a heart full of positivity. You will always find me smiling and joyful. I navigate the world with eager curiosity, always looking for new skills to add to my pockets. During my relentless pursuit of learning, I discovered the fascinating world of coding, and it was love at first code! There's something incredibly exciting about the language of computers and creating digital wonders from just pixels. When I'm not lost in lines of code, you'll likely find me in the kitchen. Cooking isn't just a hobby for me, it's a creative outlet where I sprinkle a dash of passion and a pinch of experimentation into every dish. Oh, and did I mention I'm a linguistic juggler? Fluent in isiXhosa and English. With an infectious enthusiasm, a skillet in one hand, and a keyboard in the other, I'm ready to embark on new adventures, tackle fresh challenges, and sprinkle a little laughter along the way.",
     "projects": [
         {
-            "name": "Hulu Clone", 
-             "github": "https://github.com/AkhonaMj/hulu_clone",
-             "vercel":"https://hulu-clone-owgjn9uoi-akhonas-projects.vercel.app/",
-             "image":"https://akhonamj.github.io/portfolio_images/hulu.jpg"
+            "name": "Ecommerce website", 
+            "github": "https://github.com/AkhonaMj/ecommerce-project.git",
+            "hosted":"https://ecommerce-project-5kngx7f6y-akhonas-projects.vercel.appp",
+            "image":""
+            
          },
         {
-            "name": "Calculator", 
-            "github": "https://github.com/AkhonaMj/calculator.git",
-            "vercel": "https://calculator-n256ciezx-akhonas-projects.vercel.app",
-            "image":"https://akhonamj.github.io/portfolio_images/calc2.png"
-
-        },
-        {
-            "name": "BMI Calculator", 
-            "github": "https://github.com/AkhonaMj/BMI-calculator.git",
-            "vercel":"https://bmi-calculator-4553fni4o-akhonas-projects.vercel.app",
+            "name": "Registration Webapp", 
+            "github": "https://github.com/AkhonaMj/registration_numbers_webapp.git",
+            "hosted": "https://registration-numbers-webapp-5h32.onrender.com",
             "image":""
 
         },
         {
-            "name": "Ecommerce website", 
+            "name": "My first Portfolio", 
+            "github": "https://github.com/AkhonaMj/portfolio.git",
+            "hosted": "https://portfolio-ivlg0aijx-akhonas-projects.vercel.app/",
+            "image":""
+
+        },
+    
+    
+        {
+            "name": "Capstone Project", 
             "github": "https://github.com/AkhonaMj/ecommerce-project.git",
-            "vercel":"https://ecommerce-project-5kngx7f6y-akhonas-projects.vercel.appp",
-            "image":"https://akhonamj.github.io/portfolio_images/ecom.jpg"
+            "hosted":"https://capstone-50858.firebaseapp.com/",
+            "image":""
         },
         {
-           "name": "Temperature Converter", 
-            "github": "https://github.com/AkhonaMj/temperature_converter",
-            "vercel":"https://temperature-converter-f1qpl4ba6-akhonas-projects.vercel.app/",
-            "image":"https://akhonamj.github.io/portfolio_images/tempCon.png"
+            "name": "BMI Calculator", 
+            "github": "https://github.com/AkhonaMj/BMI-calculator.git",
+            "hosted":"https://bmi-calculator-4553fni4o-akhonas-projects.vercel.app",
+            "image":""
+
         },
         {
             "name": "Taxi Queue", 
              "github":"https://github.com/AkhonaMj/taxi-queue-app",
-             "vercel":"https://taxi-queue-app.vercel.app/",
+             "hosted":"https://taxi-queue-app.vercel.app/",
              "image":""
          }
      
@@ -125,7 +129,13 @@
             "name":"Empathy",
             "image":"https://akhonamj.github.io/portfolio_images/icons8-trust-64.png",
             "description":"I practice empathy by listening actively to colleagues , considering their perspectives, and acknowledging their emotions and experiences. By empathizing, I build stronger relationships, improve communication, and foster a supportive and inclusive environment where everyone feels valued and understood."
+        },
+        {
+            "name":"Adaptability",
+            "image":"",
+            "description":"I thrive in dynamic environments, quickly adapting to new tools, technologies, and challenges. My ability to learn and pivot ensures that I stay flexible and responsive to changing project needs and evolving industry trends."
         }
+
 
     ]
 },
