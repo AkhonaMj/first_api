@@ -5,21 +5,21 @@
             "name": "Ecommerce website", 
             "github": "https://github.com/AkhonaMj/ecommerce-project.git",
             "hosted":"https://ecommerce-project-5kngx7f6y-akhonas-projects.vercel.appp",
-            "image":""
+            "image":"https://akhonamj.github.io/portfolio_images/Screenshots/Screenshot%202024-09-19%20103858.png"
             
          },
         {
             "name": "Registration Webapp", 
             "github": "https://github.com/AkhonaMj/registration_numbers_webapp.git",
             "hosted": "https://registration-numbers-webapp-5h32.onrender.com",
-            "image":""
+            "image":"https://akhonamj.github.io/portfolio_images/Screenshots/Screenshot%202024-09-19%20104111.png"
 
         },
         {
             "name": "My first Portfolio", 
             "github": "https://github.com/AkhonaMj/portfolio.git",
             "hosted": "https://portfolio-ivlg0aijx-akhonas-projects.vercel.app/",
-            "image":""
+            "image":"https://akhonamj.github.io/portfolio_images/Screenshots/Screenshot%202024-09-19%20104328.png"
 
         },
     
@@ -28,20 +28,20 @@
             "name": "Capstone Project", 
             "github": "https://github.com/AkhonaMj/ecommerce-project.git",
             "hosted":"https://capstone-50858.firebaseapp.com/",
-            "image":""
+            "image":"https://akhonamj.github.io/portfolio_images/Screenshots/Screenshot%202024-09-19%20104504.png"
         },
         {
             "name": "BMI Calculator", 
             "github": "https://github.com/AkhonaMj/BMI-calculator.git",
             "hosted":"https://bmi-calculator-4553fni4o-akhonas-projects.vercel.app",
-            "image":""
+            "image":"https://akhonamj.github.io/portfolio_images/Screenshots/Screenshot%202024-09-19%20104611.png"
 
         },
         {
             "name": "Taxi Queue", 
              "github":"https://github.com/AkhonaMj/taxi-queue-app",
              "hosted":"https://taxi-queue-app.vercel.app/",
-             "image":""
+             "image":"https://akhonamj.github.io/portfolio_images/Screenshots/Screenshot%202024-09-19%20104640.png"
          }
      
     ],
